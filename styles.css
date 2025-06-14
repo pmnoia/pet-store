@@ -68,7 +68,8 @@ button:hover {
 footer {
     background-color: #4CAF50;
     padding: 20px;
-
+    font-family: Arial, sans-serif;
+    color: white;
 }
 
 .card {
